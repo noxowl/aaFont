@@ -30,11 +30,7 @@
     /* 'MS PGothic'은 사이타마 미지원 문자 및 한글표시 대책 */
     font-family: Stmr, 'MS PGothic'; 
     font-size: 16px;
-    line-height: 1.125; /* 1.125 == 18px */
-    
-    /* 배경색 */
-    background-color: #f8f8f9;
-    
+    line-height: 1.125; /* 1.125 == 18px */   
     
     /* 폰트 비율 고정 */
     -moz-text-size-adjust: none;
