@@ -7,20 +7,20 @@
  *
  *  # Saitamaar Font License
  *
- *  - (c) YAMASINA Keage - http://keage.sakura.ne.jp
- *  - Licensed under the MIT license. - http://www.opensource.org/licenses/mit-license.php
+ *  - (c) YAMASINA Keage - https://keage.sakura.ne.jp
+ *  - Licensed under the MIT license. - https://www.opensource.org/licenses/mit-license.php
  *
  */
 
 /* 웹폰트 불러오기 */
 @font-face{
     font-family:'Stmr';
-    src:url('http://keage.sakura.ne.jp/fonts/Saitamaar.eot');
+    src:url('https://keage.sakura.ne.jp/fonts/Saitamaar.eot');
     src:local('Saitamaar'),
-        url('http://keage.sakura.ne.jp/fonts/Saitamaar.eot?#iefix') format('embedded-opentype'),
-        url('http://keage.sakura.ne.jp/fonts/Saitamaar.woff2') format('woff2'),
-        url('http://keage.sakura.ne.jp/fonts/Saitamaar.woff') format('woff'),
-        url('http://keage.sakura.ne.jp/fonts/Saitamaar.ttf') format('truetype');
+        url('https://keage.sakura.ne.jp/fonts/Saitamaar.eot?#iefix') format('embedded-opentype'),
+        url('https://keage.sakura.ne.jp/fonts/Saitamaar.woff2') format('woff2'),
+        url('https://keage.sakura.ne.jp/fonts/Saitamaar.woff') format('woff'),
+        url('https://keage.sakura.ne.jp/fonts/Saitamaar.ttf') format('truetype');
     font-weight:normal;
     }
 
