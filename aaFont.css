@@ -15,12 +15,12 @@
 /* 웹폰트 불러오기 */
 @font-face{
     font-family:'Stmr';
-    src:url('https://keage.sakura.ne.jp/fonts/Saitamaar.eot');
+    src:url('https://www.dropbox.com/s/a6ugbmshevywyr5/Saitamaar.eot?dl=1');
     src:local('Saitamaar'),
-        url('https://keage.sakura.ne.jp/fonts/Saitamaar.eot?#iefix') format('embedded-opentype'),
-        url('https://keage.sakura.ne.jp/fonts/Saitamaar.woff2') format('woff2'),
-        url('https://keage.sakura.ne.jp/fonts/Saitamaar.woff') format('woff'),
-        url('https://keage.sakura.ne.jp/fonts/Saitamaar.ttf') format('truetype');
+        url('https://www.dropbox.com/s/a6ugbmshevywyr5/Saitamaar.eot?dl=1?#iefix') format('embedded-opentype'),
+        url('https://www.dropbox.com/s/ae2dx63f0irws35/Saitamaar.woff2?dl=1') format('woff2'),
+        url('https://www.dropbox.com/s/hsmdttm2d328pbw/Saitamaar.woff?dl=1') format('woff'),
+        url('https://www.dropbox.com/s/6iaefr61nalmbwe/Saitamaar.ttf?dl=1') format('truetype');
     font-weight:normal;
     }
 
